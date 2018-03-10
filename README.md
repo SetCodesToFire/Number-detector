@@ -15,13 +15,13 @@ The MNIST database contains 60,000 training images and 10,000 testing images. Ha
 Importing the tensorflow into the project as well as creating a new tensorflow session.
 
 ## 3)Build a Multilayer Convolutional Network
-## Weight Initialization
-## Convolution and Pooling
-## First Convolutional Layer
-## Second Convolutional Layer
-## Densely Connected Layer
-## Dropout
-## Output Layer
+  ### Weight Initialization
+  ### Convolution and Pooling
+  ### First Convolutional Layer
+  ### Second Convolutional Layer
+  ### Densely Connected Layer
+  ### Dropout
+  ### Output Layer
 
 ## 4)Training and Evaluating Model
 
